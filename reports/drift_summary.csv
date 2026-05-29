@@ -1,0 +1,6 @@
+batch,ks_flagged_count,psi_flagged_count,flagged_by_both,top_drifted_features,label_drift,fraud_rate_%,mean_psi
+batch_1,29,0,0,"V8, V17, V12",False,0.1933,0.0305
+batch_2,28,0,0,"V8, V17, V12",False,0.16,0.0306
+batch_3,29,0,0,"V8, V12, V17",True,0.5222,0.0237
+batch_4,29,0,0,"V8, V17, V12",False,0.1667,0.0279
+batch_5,28,0,0,"V8, V17, V12",True,2.0,0.0253
